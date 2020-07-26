@@ -1,0 +1,30 @@
+h1{
+	background-image: url("../img/Screenshot (7).png");
+	background-size: 50% 50%;
+	background-repeat: repeat-x;
+	background-position: right bottom;
+	border: 2px solid lightgreen;
+	width: 50%;
+	height: 400px;
+	margin: 20px;
+	padding: 50px;
+
+}
+#second-para{
+	color: blue;
+	background-color: red;
+	text-align: right;
+	text-decoration:underline;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	line-height: 80px;
+
+}
+.first-class{
+	color: green;
+}
+.basic-para{
+	background:lightblue;
+	float: left;
+	width: 300px;
+}
